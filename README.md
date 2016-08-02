@@ -42,10 +42,9 @@ src/
    logo.svg
 ```
 4、启动app
-a、npm start //开发环境下启动
+a、npm start //开发环境下启动 <br />
 b、npm run build //生产环境下启动
 
 ## 参考链接
 
 * [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
-*
